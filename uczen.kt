@@ -9,7 +9,7 @@ fun main() {
     println("Klasa: $klasa")
     println("Kierunek: $kierunek")
 
-    klasa = "3B"
+    klasa = "3D"
 
     println("\n===== AKTUALNE DANE =====")
     println("Imię: $imie")
